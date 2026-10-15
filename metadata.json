@@ -1,0 +1,12 @@
+{
+  "name": "AI Photo Dance 🎶",
+  "description": "Rasmdagi odamning boshini o‘zbekcha va mashhur qo‘shiqlar ritmiga mos raqsga tushiruvchi interaktiv AI ilova.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
